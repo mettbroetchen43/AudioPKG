@@ -18,4 +18,7 @@ Anyone who has ever written a tag editor, media organizer, or Telegram bot that 
 **AudioPKG** solves this by separating metadata from the audio file entirely.
 This makes metadata access predictable, editable, and format-agnostic.  
   
+If any metadata field is missing in metadata.json, tools can fall back to embedded tags in the audio file.
+  
   This Repo is a WIP Format Specification.
+  
