@@ -4,7 +4,7 @@
 
 You may already know file formats based on ZIP archives – like EPUB or ODT. These formats bundle content with metadata in a clean and extensible way.
 
-**AudioPKG** follows the same principle: It’s a ZIP container that includes the audio file (e.g. `MP3` , ` FLAC` , ` OGG` ) and a `metadata.json` describing its metadata.
+**AudioPKG** follows the same principle: It’s a ZIP container that includes the audio file (e.g. `MP3` , `FLAC` , `OGG` ) and a `metadata.json` describing its metadata.
 
 ## Why AudioPKG?
 Anyone who has ever written a tag editor, media organizer, or Telegram bot that parses metadata knows the pain:
