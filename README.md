@@ -16,4 +16,6 @@ Anyone who has ever written a tag editor, media organizer, or Telegram bot that 
     Each format has its own quirks, limitations, and corner cases.
 
 **AudioPKG** solves this by separating metadata from the audio file entirely.
-This makes metadata access predictable, editable, and format-agnostic.
+This makes metadata access predictable, editable, and format-agnostic.  
+  
+  This Repo is a WIP Format Specification.
